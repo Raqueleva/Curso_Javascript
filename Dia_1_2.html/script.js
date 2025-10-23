@@ -1,0 +1,10 @@
+// alert("Oi")
+console.log('Raquel')
+console.warn('Erro 300')
+console.error('Erro 550')
+
+console.group('App')
+console.log('Raquel')
+console.warn('Erro 300')
+console.error('Erro 550')
+console.groupEnd()
