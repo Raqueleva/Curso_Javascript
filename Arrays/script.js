@@ -17,7 +17,7 @@
 /*Criar uma solução que concatena o terceiro item da lista logo abaixo ao testo na <console></console>*/
 /*Iniciar com a segunite frase : 'In the second cage we have: e add o item Birds'*/
 
-let petshop = ['Dogs', 'Cats', 'Birds', 'Hamsters']
-console.log(`In the second cage we have: ${petshop[2]}`)
+// let petshop = ['Dogs', 'Cats', 'Birds', 'Hamsters']
+// console.log(`In the second cage we have: ${petshop[2]}`)
 
 //////////////////////////////////
